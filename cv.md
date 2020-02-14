@@ -2,6 +2,7 @@
 ## Contacts
 **Phone number** +375(33)648-58-33  
 **e-mail** innainnaivanov@yandex.ru  
+[**LinkedIn Account**](https://www.linkedin.com/in/inna-ivanova-21b751153/)  
 [**Html Academy Account**](https://htmlacademy.ru/profile/id663509)
 ## Summary
 To achieve high results in the professional field, to get a job in a 
