@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+.block {
+    max-width: 1024px;
+    min-width: 600px;
+    margin: auto;
+    padding: 15px;
+}
+
+.photo {
+    border-radius: 100px;
+    border: 3px solid #A9A9A9;
+    box-shadow: 0 0 4px #666;
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+.main {
+    font-size: 14pt;
+    font-family: Arial, serif;
+    text-align: justify;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+}
