@@ -61,3 +61,12 @@ More code in my [**GitHab**](https://github.com/Innainn/).
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 * [SkillFactory](https://skillfactory.ru/)  «Front-end developer»  (in progress)
 * [Udemy](https://www.udemy.com/) «Полный курс по JavaScript+ React»  (in progress) 
+
+***
+
+## English
+
+* English course «Light English» ( September 2018 - December 2018)
+* English Language Courses ( tutor ) (in progress)
+
+*English level - B1*
