@@ -70,3 +70,5 @@ More code in my [**GitHab**](https://github.com/Innainn/).
 * English Language Courses ( tutor ) (in progress)
 
 *English level - B1*
+
+![photo](rs_school_js.svg)
