@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="EN">
+<head>
+    <meta charset="UTF-8">
+    <title>My CV</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@0;1&family=Yeseva+One&display=swap"
+          rel="stylesheet">
+</head>
+<body>
+<header>
+    <nav>
+        <ul class="menu">
+            <li><a href="#About-me">About me</a></li>
+            <li><a href="#Skills">Skills</a></li>
+            <li><a href="#Code-example">Code example</a></li>
+            <li><a href="#Work-experience">Work experience</a></li>
+            <li><a href="#Education">Education</a></li>
+            <li><a href="#English">English</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section class="front-image">
+        <div class="my-contacts contacts">
+            <h1 class="left_text text">Inna Ivanova</h1>
+            <hr class="line">
+            <p class="main-text">
+                Phone: +375336485833<br>
+                E-mail: inna.ivanova.by@yandex.ru<br>
+            </p>
+            <p>
+                <a href="https://t.me/innaai" target="new" title="Telegram">
+                    <img class="social-icon" alt="Telegram" src="images/telegram.png">
+                </a>
+                <a href="skype:inna-alex4?call" target="new" title="Skype">
+                    <img class="social-icon" alt="Skype" src="images/skype.png">
+                </a>
+                <a href="https://www.linkedin.com/in/inna-ivanova-21b751153/" target="new" title="Linkedin">
+                    <img class="social-icon" alt="Linkedin" src="images/linkedin.png">
+                </a>
+            </p>
+        </div>
+    </section>
+    <div class="container">
+        <section>
+            <h1 class="header-text" id="About-me">About me</h1>
+            <hr class="line-header">
+            <p class="about-me"> I’m currently taking training at SkillFactory and RSSchool
+                in Front-End developer specialization. I’m always interested in learning new things.
+                I’m interested in web development because this profession gives me the opportunity to
+                implement my ideas and create new things. I believe that I can become an experienced
+                Front-End developer.</p>
+        </section>
+        <section>
+            <h1 class="header-text" id="Skills">Skills</h1>
+            <hr class="line-header">
+            <ul class="list">
+                <li> HTML5, CSS3</li>
+                <li> JavaScript Basics</li>
+                <li>Git, GitHub</li>
+                <li>Figma</li>
+
+            </ul>
+        </section>
+        <section>
+            <h1 class="header-text" id="Code-example">Code example</h1>
+            <hr class="line-header">
+            <p class="about-me">More code in my <a href="https://github.com/InnaInn/">GitHab</a>.</p>
+            <pre><code>function repeatWord(word, count) {
+  let words = '';
+  for (let i = 1; i <= count; i++) {
+    words += word + i + ',';
+  }
+  console.log(words);
+}
+
+repeatWord('слово ', 3);</code></pre>
+        </section>
+        <section>
+            <h1 class="header-text" id="Work-experience">Work experience</h1>
+            <hr class="line-header">
+            <p class="about-me">2017 - 2022 - Vitebsk State Technological University (Software Engineer)</p>
+        </section>
+        <section>
+            <h1 class="header-text" id="Education">Education</h1>
+            <hr class="line-header">
+            <ul class="list">
+                <li> 2013 - 2017 - Vitebsk State Technological University (Information Technology and Robotics)</li>
+                <li> JavaScript Manual</li>
+                <li>RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)</li>
+                <li>SkillFactory «Front-end developer» (in progress)</li>
+                <li>Udemy «Полный курс по JavaScript+ React» (in progress)</li>
+            </ul>
+        </section>
+        <section>
+            <h1 class="header-text" id="English">English</h1>
+            <hr class="line-header">
+            <ul class="list">
+                <li> English course «Light English» ( September 2018 - December 2018)</li>
+                <li> English Language Courses ( tutor ) (in progress)</li>
+            </ul>
+            <p class="about-me">English level - B1</p>
+        </section>
+    </div>
+</main>
+<footer>
+    <ul class="menu">
+        <li><a href="https://rs.school/js/" target="new" title="RSSchool">
+            <img class="logo" alt="RSSchool" src="images/RSSchool.jpg">
+        </a></li>
+        <li><a href="#About-me"> &#169;Inna Ivanova, 09.09.2022</a></li>
+        <li><a href="https://github.com/InnaInn">My GitHab</a></li>
+    </ul>
+</footer>
+</body>
+</html>
